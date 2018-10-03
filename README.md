@@ -1,4 +1,4 @@
 garageController
 ===========
 
-Raspberry Pi based Garage Door controller for SmartThings
+Raspberry Pi based Garage Door controller for SmartThings.
